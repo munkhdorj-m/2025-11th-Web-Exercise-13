@@ -1,33 +1,20 @@
-# Web Programming Exercise 7
-Javascript Introduction: 
-https://drive.google.com/file/d/1SZ1d7YR2tr8-PenM05Lu6wUdnYSCBV_P/view?usp=sharing
+# Web Programming Exercise 13
+Javascript Lectures:
+https://drive.google.com/drive/folders/18cbP7MUFi-wQ0m3TJKM8mJLyr6S75cWF?usp=sharing
 
-## Exercise 1:
+## Exercise 1: Mini To-Do App   
 
-When button is clicked, change the background color of the page to light blue.
+Requirements:  
+• Add task  
+• Mark as completed (line-through)  
+• Delete task  
+• Empty input validation  
 
-https://github.com/user-attachments/assets/aa9168db-c6f6-4bda-9e19-46cd45915760
+JS Concepts needed:    
+• create elements  
+• remove elements  
+• class toggling   
+
+https://github.com/user-attachments/assets/16590535-4d8d-483a-bc39-df33a2661cde
 
 ---
-
-## Exercise 2:
-
-Make the box respond to mouse actions and clicks.      
--When clicked → increase the size  
--When double-clicked → reset size    
-
-https://github.com/user-attachments/assets/44177bf7-e91d-4f01-84e3-0ec559dec490
-
-## Exercise 3:
-
-When button is clicked, toggle between light and dark mode by changing:    
--background color   
--label (“Switch to Light” / “Switch to Dark”)   
-
-https://github.com/user-attachments/assets/4ed575eb-bd44-4fa9-b0ab-87453128484f
-
-
-
-
-
-
