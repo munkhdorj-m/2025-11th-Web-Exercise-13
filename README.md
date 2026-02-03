@@ -10,11 +10,6 @@ Requirements:
 • Delete task  
 • Empty input validation  
 
-JS Concepts needed:    
-• create elements  
-• remove elements  
-• class toggling   
-
 https://github.com/user-attachments/assets/16590535-4d8d-483a-bc39-df33a2661cde
 
 ---
