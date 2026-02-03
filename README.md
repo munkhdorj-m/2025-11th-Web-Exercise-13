@@ -8,7 +8,6 @@ Requirements:
 • Add task  
 • Mark as completed (line-through)  
 • Delete task  
-• Empty input validation  
 
 https://github.com/user-attachments/assets/16590535-4d8d-483a-bc39-df33a2661cde
 
